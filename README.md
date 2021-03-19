@@ -6,8 +6,9 @@
 ## Installing
 
 ```shell
-$ composer require crzhi/laravel-zipper -vvv
+$ composer require crzhi/laravel-zipper
 ```
 
 ## Usage
 
+This package was forked from [Chumper/Zipper](https://github.com/Chumper/Zipper), see [Chumper/Zipper](https://github.com/Chumper/Zipper) for usage.
